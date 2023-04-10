@@ -1,3 +1,11 @@
 # Automatic-CAPTCHA-Solver
 
-這是一個使用 Python 編寫的專案，使用 ddddocr、pyautogui 和 TwoCaptcha 模組來解決驗證碼。
+這是一個使用 Python 編寫的專案，使用 ddddocr、pyautogui 和 TwoCaptcha 模組來自動解決驗證碼。
+
+# 免責聲明
+---
+作弊是不好的。使用它違反了遊戲的使用條款。
+完全無法保證不被反作弊機制查驗，仍然有風險。
+僅供技術交流用途。
+---
+![Automatic-CAPTCHA-Solver-gif](https://user-images.githubusercontent.com/59391315/230873848-e288af0b-a858-493f-922b-ef6f1ad0ff44.gif)
